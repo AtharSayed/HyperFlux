@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+torch
+seaborn
+matplotlib
+scipy
+ydata-profiling
+dask
+dask-ml
